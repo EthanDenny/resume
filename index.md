@@ -1,16 +1,18 @@
+## **CONTACT**
+
 - Phone: (709) 743-3176
 - Email: ethandenny@protonmail.com
 - Github: [EthanDenny](https://www.github.com/EthanDenny)
 - LinkedIn: [ethan-denny-709](https://www.linkedin.com/in/ethan-denny-709/)
 
-## **Education**
+## **EDUCATION**
 
 ### Bachelor of Science at MUNL (Sep 2021 - Present)
 
 - Working on my Bachelor of Science in Computer Science
 - Currently have a 3.80 GPA and an 86.7 cumulative average
 
-## **Experience**
+## **EXPERIENCE**
 
 ### Eastern Edge Robotics (Jan 2023 - Present)
 
@@ -46,12 +48,12 @@
 - My work focused on customer service and product preparation
 - Was repeatedly complimented for my clear communication, cheerful attitude, and patience with colleagues and customers
 
-## **Skills**
+## **SKILLS**
 
 - Great at: Python, Lua, Godot / GDScript
 - Good at: C++, Java, Git
 - Have used: HTML, CSS, JavaScript, Unity
 
-## **Accolades**
+## **ACCOLADES**
 
 - Dean's List for the MUNL Faculty of Science, 2021-2022
