@@ -1,3 +1,3 @@
 # resume
 
-My [resume](index.md), written in Markdown.
+My [resume](https://ethandenny.github.io/resume/), written in Markdown.
