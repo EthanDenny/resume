@@ -1,7 +1,7 @@
 # **Ethan Denny** (he/him)
 
 - Phone: (709) 743-3176
-- Email: ethandenny@protonmail.com
+- Email: [ethandenny@protonmail.com](mailto:ethandenny@protonmail.com)
 - Github: [EthanDenny](https://www.github.com/EthanDenny)
 - LinkedIn: [ethan-denny-709](https://www.linkedin.com/in/ethan-denny-709/)
 
