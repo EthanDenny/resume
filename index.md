@@ -1,4 +1,4 @@
-## **ETHAN DENNY**
+# **ETHAN DENNY**
 
 - Phone: (709) 743-3176
 - Email: ethandenny@protonmail.com
