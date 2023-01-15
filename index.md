@@ -10,7 +10,7 @@
 ### Bachelor of Science at MUNL (Sep 2021 - Present)
 
 - Working on my Bachelor of Science in Computer Science
-- Currently have a 3.80 GPA and an 86.7 cumulative average
+- Last semester, I had a 93.2 average and a 4.00 GPA. Cumulatively (all semesters), I have an 86.7 average and a 3.80 GPA
 
 ## **EXPERIENCE**
 
@@ -25,14 +25,9 @@
 - Helped care for and teach groups of ~10-20 children
 - Educational aspects of the camps focused on coding, animation, simple CAD design, and basic filmmaking
 
-### St. John's Convention Centre (Mar 2022 - Dec 2022)
-
-- Was a member of concessions staff at the Mary Brown’s Centre
-- Responsible for food preparation and sales at a variety of events, including sports, competitions, and concerts
-
 ### MUNSU (Jan 2022 - Apr 2022)
 
-- Served as the First Year Representative for the Memorial University Student's Union
+- Served as the First Year Representative for the Memorial University Students' Union
 - Attended biweekly board meetings
 - Brought the concerns of my constituency to the board, especially regarding COVID-19
 
