@@ -1,5 +1,5 @@
 # resume
 
-My [resume](resume.md) in Markdown form.
+My [resume](resume.md), written in Markdown.
 
-The Markdown version is rendered into HTML for use with [Github pages](https://ethandenny.github.io/resume).
+Available in an easy-to-read-form with [Github pages](https://ethandenny.github.io/resume).
