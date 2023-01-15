@@ -17,7 +17,7 @@
 ### Eastern Edge Robotics (Jan 2023 - Present)
 
 - One of the newest members of the Software team for Eastern Edge Robotics
-- Helping to build an underwater ROV for the 2023 MATE International ROV competition
+- Helping to build an underwater ROV for the 2023 MATE ROV World Championship
 
 ### Code Ninjas (Jul 2022 - Aug 2022)
 
