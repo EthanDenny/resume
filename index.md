@@ -5,14 +5,14 @@
 - Github: [EthanDenny](https://www.github.com/EthanDenny)
 - LinkedIn: [ethan-denny-709](https://www.linkedin.com/in/ethan-denny-709/)
 
-## **EDUCATION**
+## **📚 EDUCATION**
 
 ### Bachelor of Science at MUNL (Sep 2021 - Present)
 
 - Working on my Bachelor of Science in Computer Science
 - Last semester, I had a 93.2 average and a 4.00 GPA. Cumulatively (all semesters), I have an 86.7 average and a 3.80 GPA
 
-## **EXPERIENCE**
+## **💻 EXPERIENCE**
 
 ### Eastern Edge Robotics (Jan 2023 - Present)
 
@@ -43,12 +43,12 @@
 - My work focused on customer service and product preparation
 - Was repeatedly complimented for my clear communication, cheerful attitude, and patience with colleagues and customers
 
-## **SKILLS**
+## **🛠️ SKILLS**
 
 - Great at: Python, Lua, Godot / GDScript
 - Good at: C++, Java, Git
 - Have used: HTML, CSS, JavaScript, Unity
 
-## **ACCOLADES**
+## **🏆 ACCOLADES**
 
 - Dean's List for the MUNL Faculty of Science, 2021-2022
