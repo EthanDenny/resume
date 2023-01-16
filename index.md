@@ -35,7 +35,7 @@
 
 - Interned at Genoa Design as part of techNL’s High School Technology Internship Program
 - Spent time with several departments and learned about running a business in the shipbuilding sector
-- Developed a virtual training game with Tabletop Studio which Genoa intended to implement as part of their onboarding process
+- Developed a virtual training game with Tabletop Simulator which Genoa intended to implement as part of their onboarding process
 
 ### Tim Hortons (Jun 2020 - Jan 2021)
 
