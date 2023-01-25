@@ -18,12 +18,14 @@
 
 - One of the newest members of the Software team for Eastern Edge Robotics
 - Helping to build an underwater ROV for the 2023 MATE ROV World Championship
+- Technologies: Python, PyQt, Git, C++
 
 ### Code Ninjas (Jul 2022 - Aug 2022)
 
 - Worked as a summer camp counsellor at Code Ninjas
 - Helped care for and teach groups of ~10-20 children
 - Educational aspects of the camps focused on coding, animation, simple CAD design, and basic filmmaking
+- Technologies: Python, TinkerCAD
 
 ### MUNSU (Jan 2022 - Apr 2022)
 
@@ -36,6 +38,8 @@
 - Interned at Genoa Design as part of techNL’s High School Technology Internship Program
 - Spent time with several departments and learned about running a business in the shipbuilding sector
 - Developed a virtual training game with Tabletop Simulator which Genoa intended to implement as part of their onboarding process
+- Also spent time with the innovation team and built a prototype interface for visualizing connections between ship compartments
+- Technologies used: Tabletop Simulator, Python, PyVis
 
 ### Tim Hortons (Jun 2020 - Jan 2021)
 
@@ -43,11 +47,45 @@
 - My work focused on customer service and product preparation
 - Was repeatedly complimented for my clear communication, cheerful attitude, and patience with colleagues and customers
 
+## **📦 PROJECTS**
+
+### [This resume!](https://github.com/EthanDenny/resume)
+
+- This thing didn't put itself on the web, you know
+- Technologies: Markdown, Git, GitHub Pages
+
+### [Advent of Code 2022](https://github.com/EthanDenny/advent-of-code-2022)
+
+- My solutions for the annual holiday coding challenge
+- I completed days 1-10, the first half of day 11, and day 12 (life got busy!)
+- Technologies: C++
+
+### [ASaltyNewfie.itch.io](asaltynewfie.itch.io)
+
+- Sometimes I make and publish weird little games
+- None of them are polished, but all of them are interesting
+- Technologies: Construct 2, Godot / GDScript
+
+### [brainf*ck interpreter]()
+
+- A custom interepter for a silly little language with a remarkably obscene name
+- Technologies: Python, brainf*ck
+
+### [Python X-TOY](https://github.com/EthanDenny/python-x-toy)
+
+- A Python implementation of the [X-TOY imaginary machine](https://lift.cs.princeton.edu/xtoy/) from Princeton
+- Built it because the Java-based Princeton version didn't support terminal use
+- Technologies: Python
+
+### [Rock Paper Scissors](https://github.com/EthanDenny/rock-paper-scissors)
+
+- A simulator for a multi-competitor rock-paper-scissors-like game
+- Technologies: Godot / GDScript
+
 ## **🛠️ SKILLS**
 
-- Great at: Python, Lua, Godot / GDScript
-- Good at: C++, Java, Git
-- Have used: HTML, CSS, JavaScript, Unity
+- Best at: Python (PyVis, PyQt), Lua, Godot / GDScript, Java
+- Have used: C, C++, Git, HTML, CSS, JavaScript, Unity
 
 ## **🏆 ACCOLADES**
 
