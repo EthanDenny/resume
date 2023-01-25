@@ -60,13 +60,13 @@
 - I completed days 1-10, the first half of day 11, and day 12 (life got busy!)
 - Technologies: C++
 
-### [ASaltyNewfie.itch.io](asaltynewfie.itch.io)
+### [ASaltyNewfie.itch.io](https://asaltynewfie.itch.io)
 
 - Sometimes I make and publish weird little games
 - None of them are polished, but all of them are interesting
 - Technologies: Construct 2, Godot / GDScript
 
-### [brainf*ck interpreter]()
+### [brainf*ck interpreter](https://github.com/EthanDenny/brainfuck-interpreter-py)
 
 - A custom interepter for a silly little language with a remarkably obscene name
 - Technologies: Python, brainf*ck
