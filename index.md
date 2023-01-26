@@ -85,7 +85,7 @@
 ## **🛠️ SKILLS**
 
 - Best at: Python, Lua, Godot / GDScript, Java
-- Have used: C, C++, Git, Unity
+- Have used: C, C++, Git
 
 ## **🏆 ACCOLADES**
 
