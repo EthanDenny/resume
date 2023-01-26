@@ -84,8 +84,8 @@
 
 ## **🛠️ SKILLS**
 
-- Best at: Python (PyVis, PyQt), Lua, Godot / GDScript, Java
-- Have used: C, C++, Git, HTML, CSS, JavaScript, Unity
+- Best at: Python, Lua, Godot / GDScript, Java
+- Have used: C, C++, Git, Unity
 
 ## **🏆 ACCOLADES**
 
