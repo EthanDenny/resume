@@ -66,21 +66,22 @@
 - None of them are polished, but all of them are interesting
 - Technologies: Construct 2, Godot / GDScript
 
-### [brainf*ck interpreter](https://github.com/EthanDenny/brainfuck-interpreter-py)
-
-- A custom interepter for a silly little language with a remarkably obscene name
-- Technologies: Python, brainf*ck
-
 ### [Python X-TOY](https://github.com/EthanDenny/python-x-toy)
 
 - A Python implementation of the [X-TOY imaginary machine](https://lift.cs.princeton.edu/xtoy/) from Princeton
 - Built it because the Java-based Princeton version didn't support terminal use
 - Technologies: Python
 
-### [Rock Paper Scissors](https://github.com/EthanDenny/rock-paper-scissors)
+### [Rock-Paper-Scissors](https://github.com/EthanDenny/rock-paper-scissors)
 
 - A simulator for a multi-competitor rock-paper-scissors-like game
 - Technologies: Godot / GDScript
+
+### [Underwater ROV software](https://github.com/EasternEdgeRobotics/Software_2023)
+
+- Working on frontend and backend code for an underwater ROV with my colleagues at Eastern Edge Robotics
+- Built for the 2023 MATE ROV World Championship
+- Technologies: Python, PyQt, Git
 
 ## **🛠️ SKILLS**
 
