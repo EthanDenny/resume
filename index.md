@@ -12,11 +12,16 @@
 - Working on my Bachelor of Science in Computer Science
 - Last semester, I had a 93.2 average and a 4.00 GPA. Cumulatively (all semesters), I have an 86.7 average and a 3.80 GPA
 
-## **💻 EXPERIENCE**
+## **💻 EXPERIENCE (IN CHRONOLOGICAL ORDER)**
+
+### MUN CS Society Exec (Jan 2023 - Present)
+
+- Recently joined the executive for the MUN Computer Science Society as a Representative-At-Large
+- Helped organize the inaugural [textjam](https://textjam.github.io/winter2023/), an event about creating games or other interactive experiences built around text-based I/O.
 
 ### Eastern Edge Robotics (Jan 2023 - Present)
 
-- One of the newest members of the Software team for Eastern Edge Robotics
+- Member of the Software team for Eastern Edge Robotics
 - Helping to build an underwater ROV for the 2023 MATE ROV World Championship
 - Technologies: Python, PyQt, Git, C++
 
@@ -54,17 +59,16 @@
 - This thing didn't put itself on the web, you know
 - Technologies: Markdown, Git, GitHub Pages
 
-### [Advent of Code 2022](https://github.com/EthanDenny/advent-of-code-2022)
+### [Underwater ROV software](https://github.com/EasternEdgeRobotics/Software_2023)
 
-- My solutions for the annual holiday coding challenge
-- I completed days 1-10, the first half of day 11, and day 12 (life got busy!)
+- Working on frontend and backend code for an underwater ROV with my colleagues at Eastern Edge Robotics
+- Built for the 2023 MATE ROV World Championship
+- Technologies: Python, PyQt, Git
+
+### [TOY Assembler](https://github.com/EthanDenny/toy-assembler)
+- Assembles an ARM-like language into X-TOY machine code
+- Works nicely with my [Python implementation](https://github.com/EthanDenny/python-x-toy) of the X-TOY imaginary machine
 - Technologies: C++
-
-### [ASaltyNewfie.itch.io](https://asaltynewfie.itch.io)
-
-- Sometimes I make and publish weird little games
-- None of them are polished, but all of them are interesting
-- Technologies: Construct 2, Godot / GDScript
 
 ### [Python X-TOY](https://github.com/EthanDenny/python-x-toy)
 
@@ -72,21 +76,23 @@
 - Built it because the Java-based Princeton version didn't support terminal use
 - Technologies: Python
 
-### [Rock-Paper-Scissors](https://github.com/EthanDenny/rock-paper-scissors)
+### [ASaltyNewfie.itch.io](https://asaltynewfie.itch.io)
 
-- A simulator for a multi-competitor rock-paper-scissors-like game
-- Technologies: Godot / GDScript
+- Sometimes I make and publish weird little games
+- None of them are polished, but all of them are interesting
+- Technologies: Construct 2, Godot / GDScript
 
-### [Underwater ROV software](https://github.com/EasternEdgeRobotics/Software_2023)
 
-- Working on frontend and backend code for an underwater ROV with my colleagues at Eastern Edge Robotics
-- Built for the 2023 MATE ROV World Championship
-- Technologies: Python, PyQt, Git
+### [Advent of Code 2022](https://github.com/EthanDenny/advent-of-code-2022)
+
+- My solutions for the annual holiday coding challenge
+- I completed days 1-10, the first half of day 11, and day 12 (life got busy!)
+- Technologies: C++
 
 ## **🛠️ SKILLS**
 
-- Best at: Python, Lua, Godot / GDScript, Java
-- Have used: C, C++, Git
+- Best at: Python, Lua, Godot / GDScript, C++
+- Have used: Java, C, Git, Construct
 
 ## **🏆 ACCOLADES**
 
