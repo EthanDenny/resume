@@ -9,25 +9,25 @@
 
 ### Bachelor of Science at MUNL (Sep 2021 - Present)
 
-- Working on my Bachelor of Science in Computer Science
-- Last semester, I had a 92.9 average and a 4.00 GPA. Cumulatively (all semesters), I have an 88.3 average and a 3.85 GPA
+- BSc. in computer science (honours), minor in math
+- Last semester had a 92.9 average and a 4.00 GPA. Cumulatively (all semesters) have an 88.3 average and a 3.85 GPA
 
 ## **💻 EXPERIENCE**
 
 ### MUN CS Society Exec (Mar 2023 - Present)
 
 - Recently joined the executive for the MUN Computer Science Society as a Representative-At-Large
-- Helped organize the inaugural [textjam](https://textjam.github.io/winter2023/), an event about creating games or other interactive experiences built around text-based I/O.
+- Helped organize the inaugural [textjam](https://textjam.github.io/winter2023/), an event about creating games or other interactive experiences built around text-based I/O
 
 ### Eastern Edge Robotics (Jan 2023 - Apr 2023)
 
-- Member of the Software team for Eastern Edge Robotics
+- Member of the software team for Eastern Edge Robotics
 - Helped to build underwater ROV control software for the 2023 MATE ROV World Championship
 
 ### Code Ninjas (Jul 2022 - Aug 2022)
 
 - Worked as a summer camp counsellor at Code Ninjas
-- Helped care for and teach groups of ~10-20 children
+- Helped care for and teach groups of 10-20 children
 - Educational aspects of the camps focused on coding, animation, simple CAD design, and basic filmmaking
 
 ### MUNSU (Jan 2022 - Apr 2022)
@@ -46,7 +46,7 @@
 ### Tim Hortons (Jun 2020 - Jan 2021)
 
 - Was part of a team responsible for handling hundreds of customers a day
-- My work focused on customer service and product preparation
+- Work focused on customer service and product preparation
 - Was repeatedly complimented for my clear communication, cheerful attitude, and patience with colleagues and customers
 
 ## **🛠️ SKILLS**
