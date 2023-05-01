@@ -24,30 +24,12 @@
 - Member of the software team for Eastern Edge Robotics
 - Helped to build underwater ROV control software for the 2023 MATE ROV World Championship
 
-### Code Ninjas (Jul 2022 - Aug 2022)
-
-- Worked as a summer camp counsellor at Code Ninjas
-- Helped care for and teach groups of 10-20 children
-- Educational aspects of the camps focused on coding, animation, simple CAD design, and basic filmmaking
-
-### MUNSU (Jan 2022 - Apr 2022)
-
-- Served as the First Year Representative for the Memorial University Students' Union
-- Attended biweekly board meetings
-- Brought the concerns of my constituency to the board, especially regarding COVID-19
-
 ### Genoa Design (Jun 2021 - Aug 2021)
 
 - Interned at Genoa Design as part of techNL’s High School Technology Internship Program
 - Spent time with several departments and learned about running a business in the shipbuilding sector
 - Developed a virtual training game with Tabletop Simulator which Genoa intended to implement as part of their onboarding process
 - Also spent time with the innovation team and built a prototype interface for visualizing connections between ship compartments
-
-### Tim Hortons (Jun 2020 - Jan 2021)
-
-- Was part of a team responsible for handling hundreds of customers a day
-- Work focused on customer service and product preparation
-- Was repeatedly complimented for my clear communication, cheerful attitude, and patience with colleagues and customers
 
 ## **📦 PROJECTS**
 
@@ -70,13 +52,6 @@
 - A minimalist command-line text editor with pretty colours made in pure Python
 - Created for the winter 2023 textjam (which I also helped organize!)
 - Technologies: Python
-
-## **🛠️ SKILLS**
-
-- Organized
-- Fast learner
-- Strong communicator
-- Thorough problem solver
 
 ## **🏆 ACCOLADES**
 
