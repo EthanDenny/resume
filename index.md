@@ -49,11 +49,32 @@
 - Work focused on customer service and product preparation
 - Was repeatedly complimented for my clear communication, cheerful attitude, and patience with colleagues and customers
 
+## **📦 PROJECTS**
+
+### [TOY Assembler](https://github.com/EthanDenny/toy-assembler)
+- Assembles an ARM-like language into X-TOY machine code
+- Works nicely with my [Python implementation](https://github.com/EthanDenny/python-x-toy) of the X-TOY imaginary machine
+- Technologies: C++
+
+### [Can't Stop](https://drive.google.com/file/d/10GQTHcnNdGVBAzsrAbxG5p-kRT6WobJW/view?usp=sharing)
+- An implementation of the board game *Can't Stop* made with four other students for a university course (COMP 2005, Software Engineering)
+- Source code is private at the professor's direction, but a compiled JAR is available
+- Technologies: Java
+
+### [Underwater ROV software](https://github.com/EasternEdgeRobotics/Software_2023)
+- Contributed to frontend control code for an underwater ROV with my colleagues at Eastern Edge Robotics
+- Built for the 2023 MATE ROV World Championship
+- Technologies: Python, PyQt, Git
+
+### [Tiny Text](https://github.com/EthanDenny/tiny-text-editor)
+- A minimalist command-line text editor with pretty colours made in pure Python
+- Created for the [winter 2023 textjam](https://textjam.github.io/winter2023/) (which I also helped organize!)
+- Technologies: Python
+
 ## **🛠️ SKILLS**
 
-- Very organized
+- Organized
 - Fast learner
-- Extremely proficient with computers
 - Strong communicator
 - Thorough problem solver
 
