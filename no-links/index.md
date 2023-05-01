@@ -33,25 +33,20 @@
 
 ## **📦 PROJECTS**
 
-### TOY Assembler
-- Assembles an ARM-like language into X-TOY machine code
-- Works nicely with my Python implementation of the X-TOY imaginary machine
-- Technologies: C++
+### Tiny Text
+- A minimalist command-line text editor with pretty colours made in pure Python
+- Created for the winter 2023 textjam (which I also helped organize!)
+- Technologies: Python
 
 ### Can't Stop
 - An implementation of the board game *Can't Stop* made with four other students for a university course (COMP 2005, Software Engineering)
 - Source code is private at the professor's direction, but a compiled JAR is available
 - Technologies: Java
 
-### Underwater ROV software
-- Contributed to frontend control code for an underwater ROV with my colleagues at Eastern Edge Robotics
-- Built for the 2023 MATE ROV World Championship
-- Technologies: Python, PyQt, Git
-
-### Tiny Text
-- A minimalist command-line text editor with pretty colours made in pure Python
-- Created for the winter 2023 textjam (which I also helped organize!)
-- Technologies: Python
+### TOY Assembler
+- Assembles an ARM-like language into X-TOY machine code
+- Works nicely with my Python implementation of the X-TOY imaginary machine
+- Technologies: C++
 
 ## **🏆 ACCOLADES**
 
