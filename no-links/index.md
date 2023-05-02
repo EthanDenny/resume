@@ -9,7 +9,7 @@
 
 ### Bachelor of Science at MUNL (Sep 2021 - Present)
 
-- BSc. in computer science (honours), minor in math
+- BSc. in computer science, minor in math
 - Last semester had a 92.9 average and a 4.00 GPA. Cumulatively (all semesters) have an 88.3 average and a 3.85 GPA
 
 ## **💻 EXPERIENCE**
