@@ -14,11 +14,6 @@
 
 ## **💻 EXPERIENCE**
 
-### MUN CS Society Exec (Mar 2023 - Present)
-
-- Recently joined the executive for the MUN Computer Science Society as a Representative-At-Large
-- Helped organize the inaugural textjam, an event about creating games or other interactive experiences built around text-based I/O
-
 ### Eastern Edge Robotics (Jan 2023 - Apr 2023)
 
 - Member of the software team for Eastern Edge Robotics
@@ -47,6 +42,11 @@
 - Assembles an ARM-like language into X-TOY machine code
 - Works nicely with my Python implementation of the X-TOY imaginary machine
 - Technologies: C++
+
+## **🛠️ SKILLS**
+
+- Languages: Python, Java, C, C++, GDScript
+- Technologies: Linux, Windows, Git, GitHub, JUnit, Swing, PyQt, Godot
 
 ## **🏆 ACCOLADES**
 
