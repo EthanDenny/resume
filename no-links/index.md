@@ -7,47 +7,89 @@
 
 ## **📚 EDUCATION**
 
-### Bachelor of Science at MUNL (Sep 2021 - Present)
+### **Bachelor of Science**
+#### Memorial University of Newfoundland, Sep 2021 - Present
 
 - BSc. in computer science, minor in math
-- Last semester had a 92.9 average and a 4.00 GPA. Cumulatively (all semesters) have an 88.3 average and a 3.85 GPA
+- 93.5 average and 4.00 GPA in computer science courses
+- Key courses: Software Engineering, Object-Oriented Programming, Operating Systems
 
 ## **💻 EXPERIENCE**
 
-### Eastern Edge Robotics (Jan 2023 - Apr 2023)
+### **Machine Learning Developer**
+#### MUN Visual & Analytic Computing Lab, Jun 2023
 
-- Member of the software team for Eastern Edge Robotics
-- Helped to build underwater ROV control software for the 2023 MATE ROV World Championship
+- Worked with a team to build custom worklfows and documentation, tuned to the needs of the lab, for the machine learning tracking software MLflow.
+- Learned the basics of building machine learning models using Pytorch.
+- My work directly supported research focused on early detection of breast cancer as well as the development of more powerful lightfield displays.
 
-### Genoa Design (Jun 2021 - Aug 2021)
+### **Sensei**
+#### Code Ninjas, Jul 2022 - Aug 2022
 
-- Interned at Genoa Design as part of techNL’s High School Technology Internship Program
-- Spent time with several departments and learned about running a business in the shipbuilding sector
-- Developed a virtual training game with Tabletop Simulator which Genoa intended to implement as part of their onboarding process
-- Also spent time with the innovation team and built a prototype interface for visualizing connections between ship compartments
+- Worked as a summer camp counsellor at Code Ninjas, teaching children computer literacy and basic programming.
+- Educational aspects of the camps included learning Python, stop-motion animation, CAD design, and basic filmmaking.
+
+### **Intern**
+#### Genoa Design, Jun 2021 - Aug 2021
+
+- Developed a virtual training game with Lua and Tabletop Simulator which Genoa implemented as part of their employee onboarding process.
+- Also used Python and Pyvis to build a proof-of-concept for using graphs to visualize connections between ship compartments.
+- This internship was facillitated through techNL’s High School Technology Internship Program.
+
+## **❤️ VOLUNTEERING**
+
+### **President**
+#### MUN Computer Science Society, Mar 2023 - Present
+
+- Became President in June 2023 after serving as a Representative-At-Large.
+- Helped organize the inaugural textjam, an event about creating games or other interactive experiences using text-based I/O.
+Focused on planning events for the fall, updating the old constitution to make it easier for passionate students to participate in governing the society, and exploring new ways to engage students, especially those in their first and second year.
+
+
+### **Software Team Member**
+#### Eastern Edge Robotics, Jan 2023 - Apr 2023
+
+- Worked on a team building underwater ROV control software for the 2023 MATE ROV World Championship.
+- Rewrote a complicated C++ Qt component in Python, saving the team many hours, as our only other alternative was to create it from scratch.
+- Developed, proposed, and implemented a new way of structuring the main GUI which was more modular and more efficient, making it much easier to work concurrently on the UI.
+
+### **First Year Representative**
+#### MUN Students' Union, Jan 2022 - Apr 2022
+
+- Attended biweekly board meetings, participating in critical discussions regarding the COVID-19 pandemic and student elections.
+- Was diligent in bringing the concerns of my constituency (an often underrepresented group in student politics) to the rest of the board.
 
 ## **📦 PROJECTS**
 
-### Tiny Text
-- A minimalist command-line text editor with pretty colours made in pure Python
-- Created for the winter 2023 textjam (which I also helped organize!)
-- Technologies: Python
+### **Can't Stop**
 
-### Can't Stop
-- An implementation of the board game *Can't Stop* made with four other students for a university course (COMP 2005, Software Engineering)
-- Source code is private at the professor's direction, but a compiled JAR is available
-- Technologies: Java
+- Designed and developed a digital version of the game *Can't Stop* using Java and the Swing GUI library.
+- Made with a team of other students for a software engineering course.
+- Source code is not on my GitHub at the professor's request, but a compiled JAR is available.
 
-### TOY Assembler
-- Assembles an ARM-like language into X-TOY machine code
-- Works nicely with my Python implementation of the X-TOY imaginary machine
-- Technologies: C++
+### **X-TOY Assembler**
+
+- Used C++ to build an assembler for an ARM-like language to machine code for a virtual processor.
+- Learned the basics of lexing and parsing, and got real experience with structuring low-level projects.
+- Work has been recognized and encouraged by professors.
+
+### **Tiny Text**
+
+- A minimalist command-line text editor made in pure Python.
+- Can handle file editing and basic keyboard shortcuts.
+- Created for the winter 2023 textjam (which I also helped organize).
 
 ## **🛠️ SKILLS**
 
-- Languages: Python, Java, C, C++, GDScript
-- Technologies: Linux, Windows, Git, GitHub, JUnit, Swing, PyQt, Godot
+| Core Skills      | Familiar With | Have Used |
+| ---------------- | ------------- | --------- |
+| Python           | Git           | SQL       |
+| Java             | C / C++       | JUnit     |
+| Godot            | Lua           | Pyvis     |
+| Windows          | MLflow        | PyTorch   |
+| Linux            | Swing         | PyQt      |
+
 
 ## **🏆 ACCOLADES**
 
-- Dean's List for the MUNL Faculty of Science, 2021-2022
+- Dean's List for the MUN Faculty of Science, 2021-2022
