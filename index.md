@@ -19,9 +19,9 @@
 ### **Machine Learning Developer**
 #### MUN Visual & Analytic Computing Lab, Jun 2023
 
-- Worked with a team to build custom worklfows and documentation, tuned to the needs of the lab, for the machine learning tracking software MLflow.
+- Worked with a team to build custom workflows and documentation, tuned to the needs of the lab, for the machine learning tracking software MLflow.
 - Learned the basics of building machine learning models using Pytorch.
-- My work directly supported research focused on early detection of breast cancer as well as the development of more powerful lightfield displays.
+- My work directly supported research focused on early detection of breast cancer and the development of more powerful lightfield displays.
 
 ### **Sensei**
 #### Code Ninjas, Jul 2022 - Aug 2022
@@ -32,9 +32,9 @@
 ### **Intern**
 #### Genoa Design, Jun 2021 - Aug 2021
 
-- Developed a virtual training game with Lua and Tabletop Simulator which Genoa implemented as part of their employee onboarding process.
+- Developed a virtual training game with Lua and Tabletop Simulator, which Genoa implemented as part of their employee onboarding process.
 - Also used Python and Pyvis to build a proof-of-concept for using graphs to visualize connections between ship compartments.
-- This internship was facillitated through techNL’s High School Technology Internship Program.
+- This internship was facilitated through techNL’s High School Technology Internship Program.
 
 ## **❤️ VOLUNTEERING**
 
@@ -44,7 +44,6 @@
 - Became President in June 2023 after serving as a Representative-At-Large.
 - Helped organize the inaugural [textjam](https://textjam.github.io/winter2023/), an event about creating games or other interactive experiences using text-based I/O.
 Focused on planning events for the fall, updating the old constitution to make it easier for passionate students to participate in governing the society, and exploring new ways to engage students, especially those in their first and second year.
-
 
 ### **Software Team Member**
 #### Eastern Edge Robotics, Jan 2023 - Apr 2023
@@ -56,7 +55,7 @@ Focused on planning events for the fall, updating the old constitution to make i
 ### **First Year Representative**
 #### MUN Students' Union, Jan 2022 - Apr 2022
 
-- Attended biweekly board meetings, participating in critical discussions regarding the COVID-19 pandemic and student elections.
+- Attended biweekly board meetings and took part in critical discussions regarding the COVID-19 pandemic and student elections.
 - Was diligent in bringing the concerns of my constituency (an often underrepresented group in student politics) to the rest of the board.
 
 ## **📦 PROJECTS**
