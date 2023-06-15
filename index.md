@@ -19,7 +19,7 @@
 ### **Machine Learning Developer**
 #### MUN Visual & Analytic Computing Lab, Jun 2023
 
-- Worked with a team to build custom workflows and documentation, tuned to the needs of the lab, for the machine learning tracking software MLflow.
+- Worked with a team to build custom workflows and documentation for the machine learning tracking software MLflow.
 - Learned the basics of building machine learning models using Pytorch.
 - My work directly supported research focused on early detection of breast cancer and the development of more powerful lightfield displays.
 
@@ -34,7 +34,6 @@
 
 - Developed a virtual training game with Lua and Tabletop Simulator, which Genoa implemented as part of their employee onboarding process.
 - Also used Python and Pyvis to build a proof-of-concept for using graphs to visualize connections between ship compartments.
-- This internship was facilitated through techNL’s High School Technology Internship Program.
 
 ## **❤️ VOLUNTEERING**
 
@@ -42,15 +41,15 @@
 #### MUN Computer Science Society, Mar 2023 - Present
 
 - Became President in June 2023 after serving as a Representative-At-Large.
+- Responsible for managing the society and its finances, moderating its online communities, and planning events. Currently working to update the constitution to make it easier for passionate students to participate in governing the society, and to explore new ways to engage students, especially those in their first and second year.
 - Helped organize the inaugural [textjam](https://textjam.github.io/winter2023/), an event about creating games or other interactive experiences using text-based I/O.
-Focused on planning events for the fall, updating the old constitution to make it easier for passionate students to participate in governing the society, and exploring new ways to engage students, especially those in their first and second year.
 
 ### **Software Team Member**
 #### Eastern Edge Robotics, Jan 2023 - Apr 2023
 
 - Worked on a team building underwater ROV control software for the 2023 MATE ROV World Championship.
 - Rewrote a complicated C++ Qt component in Python, saving the team many hours, as our only other alternative was to create it from scratch.
-- Developed, proposed, and implemented a new way of structuring the main GUI which was more modular and more efficient, making it much easier to work concurrently on the UI.
+- Developed, proposed, and implemented a new way of structuring the main GUI which was more modular and more efficient, making it much easier to work concurrently.
 
 ### **First Year Representative**
 #### MUN Students' Union, Jan 2022 - Apr 2022
