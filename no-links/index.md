@@ -23,10 +23,10 @@
 - Learned the basics of building machine learning models using Pytorch.
 - My work directly supported research focused on early detection of breast cancer and the development of more powerful lightfield displays.
 
-### **Sensei**
+### **Summer Camp Counsellor**
 #### Code Ninjas, Jul 2022 - Aug 2022
 
-- Worked as a summer camp counsellor at Code Ninjas, teaching children computer literacy and basic programming.
+- Worked at a summer camp teaching children basic programming and computer literacy.
 - Educational aspects of the camps included learning Python, stop-motion animation, CAD design, and basic filmmaking.
 
 ### **Intern**
