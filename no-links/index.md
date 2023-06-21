@@ -7,10 +7,10 @@
 
 ## **📚 EDUCATION**
 
-### **Bachelor of Science**
+### **Bachelor of Science (Honours) in Computer Science**
 #### Memorial University of Newfoundland, Sep 2021 - Present
 
-- BSc. in computer science, minor in math
+- Majoring in computer science (honours), minor in math
 - 93.5 average and 4.00 GPA in computer science courses
 - Key courses: Software Engineering, Object-Oriented Programming, Operating Systems
 
