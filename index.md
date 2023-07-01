@@ -81,9 +81,9 @@
 
 | Core Skills      | Familiar With | Have Used |
 | ---------------- | ------------- | --------- |
-| Python           | Git           | SQL       |
-| Java             | C / C++       | JUnit     |
-| Godot            | Lua           | Pyvis     |
+| Python           | Git           | Verilog   |
+| Java             | C / C++       | SQL       |
+| Godot            | Lua           | JUnit     |
 | Windows          | MLflow        | PyTorch   |
 | Linux            | Swing         | PyQt      |
 
