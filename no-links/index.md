@@ -91,3 +91,4 @@
 ## **🏆 ACCOLADES**
 
 - Dean's List for the MUN Faculty of Science, 2021-2022
+- Dean's List for the MUN Faculty of Science, 2022-2023
