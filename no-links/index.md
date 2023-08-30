@@ -11,10 +11,17 @@
 #### Memorial University of Newfoundland, Sep 2021 - Present
 
 - Majoring in computer science (honours), minor in math
-- 93.5 average and 4.00 GPA in computer science courses
+- 90.7 average and 3.95 GPA
 - Key courses: Software Engineering, Object-Oriented Programming, Operating Systems
 
 ## **💻 EXPERIENCE**
+
+### **Supervisor**
+#### Commissionaires, Jul 2023 - Aug 2023
+
+- Responsible for ensuring the safety of thousands of people daily at the St. John's Pedestrian Mall.
+- Work involved leading a team of guards, responding to emergencies, providing information and assistance, and reporting incidents.
+- Served as the acting manager for a week, managing shifts, incidents, and communicating with the city.
 
 ### **Machine Learning Developer**
 #### MUN Visual & Analytic Computing Lab, Jun 2023
@@ -30,10 +37,16 @@
 - Educational aspects of the camps included learning Python, stop-motion animation, CAD design, and basic filmmaking.
 
 ### **Intern**
-#### Genoa Design, Jun 2021 - Aug 2021
+#### Genoa Design, Jul 2021 - Aug 2021
 
 - Developed a virtual training game with Lua and Tabletop Simulator, which Genoa implemented as part of their employee onboarding process.
 - Also used Python and Pyvis to build a proof-of-concept for using graphs to visualize connections between ship compartments.
+
+### **Team Member**
+#### Tim Hortons, Jul 2020 - Dec 2020
+
+- Served as a valuable member of a team responsible for handling hundreds of customers a day.
+- My work focused on customer service and product preparation, and I was repeatedly noted for my clear communication and patience with colleagues and customers.
 
 ## **❤️ VOLUNTEERING**
 
