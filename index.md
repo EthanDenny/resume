@@ -20,15 +20,15 @@
 #### Commissionaires, Jul 2023 - Aug 2023
 
 - Responsible for ensuring the safety of thousands of people daily at the St. John's Pedestrian Mall.
-- Work involved leading a team of guards, responding to emergencies, providing information and assistance, and reporting incidents.
-- Served as the acting manager for a week, managing shifts, incidents, and communicating with the city.
+- Work involved leading a team of five guards, providing information, reporting incidents, and responding to emergencies.
+- Served as the acting manager for a week during which I handled shift scheduling, dealing with incidents, and communicating with the city.
 
 ### **Machine Learning Developer**
 #### MUN Visual & Analytic Computing Lab, Jun 2023
 
-- Worked with a team to build custom workflows and documentation for the machine learning tracking software MLflow.
+- Worked with a team to build custom workflows and documentation for the tracking software MLflow.
 - Learned the basics of building machine learning models using Pytorch.
-- My work directly supported research focused on early detection of breast cancer and the development of more powerful lightfield displays.
+- My work directly supported research focused on early detection of breast cancer.
 
 ### **Summer Camp Counsellor**
 #### Code Ninjas, Jul 2022 - Aug 2022
@@ -40,43 +40,37 @@
 #### Genoa Design, Jul 2021 - Aug 2021
 
 - Developed a virtual training game with Lua and Tabletop Simulator, which Genoa implemented as part of their employee onboarding process.
-- Also used Python and Pyvis to build a proof-of-concept for using graphs to visualize connections between ship compartments.
-
-### **Team Member**
-#### Tim Hortons, Jul 2020 - Dec 2020
-
-- Served as a valuable member of a team responsible for handling hundreds of customers a day.
-- My work focused on customer service and product preparation, and I was repeatedly noted for my clear communication and patience with colleagues and customers.
+- Used Python and Pyvis to build a proof-of-concept for using graphs to visualize connections between ship compartments.
 
 ## **❤️ VOLUNTEERING**
 
 ### **President**
 #### MUN Computer Science Society, Mar 2023 - Present
 
-- Became President in June 2023 after serving as a Representative-At-Large.
-- Responsible for managing the society and its finances, moderating its online communities, and planning events. Currently working to update the constitution to make it easier for passionate students to participate in governing the society, and to explore new ways to engage students, especially those in their first and second year.
-- Helped organize the inaugural [textjam](https://textjam.github.io/winter2023/), an event about creating games or other interactive experiences using text-based I/O.
+- Became President in June 2023 after serving as a Representative-At-Large for three months.
+- Responsible for planning events, managing finances, and moderation of our online communities.
+- Currently working to increase engagement from students, especially those in their first year of school.
 
 ### **Software Team Member**
 #### Eastern Edge Robotics, Jan 2023 - Apr 2023
 
 - Worked on a team building underwater ROV control software for the 2023 MATE ROV World Championship.
-- Rewrote a complicated C++ Qt component in Python, saving the team many hours, as our only other alternative was to create it from scratch.
-- Developed, proposed, and implemented a new way of structuring the main GUI which was more modular and more efficient, making it much easier to work concurrently.
+- Rewrote a C++ Qt component in Python rather than create it from scratch, saving the team many hours.
+- Developed, proposed, and implemented a new way of structuring the main GUI which was more modular and efficient, making it much easier to work concurrently.
 
 ### **First Year Representative**
 #### MUN Students' Union, Jan 2022 - Apr 2022
 
 - Attended biweekly board meetings and took part in critical discussions regarding the COVID-19 pandemic and student elections.
-- Was diligent in bringing the concerns of my constituency (an often underrepresented group in student politics) to the rest of the board.
+- Was dilligent in presenting the concerns of first-year students (an underrepresented group in student politics) to the rest of the board.
 
 ## **📦 PROJECTS**
 
 ### **[Can't Stop](https://drive.google.com/file/d/10GQTHcnNdGVBAzsrAbxG5p-kRT6WobJW/view?usp=sharing)**
 
 - Designed and developed a digital version of the game *Can't Stop* using Java and the Swing GUI library.
-- Made with a team of other students for a software engineering course.
-- Source code is not on my GitHub at the professor's request, but a compiled JAR is available.
+- Made with a team of other students for COMP 2005: Software Engineering.
+- Source code is private at the professor's request, but a compiled JAR is available.
 
 ### **[X-TOY Assembler](https://github.com/EthanDenny/toy-assembler)**
 
@@ -88,7 +82,7 @@
 
 - A minimalist command-line text editor made in pure Python.
 - Can handle file editing and basic keyboard shortcuts.
-- Created for the winter 2023 textjam (which I also helped organize).
+- Created for the winter 2023 [textjam](https://textjam.github.io/winter2023/) (which I also helped organize).
 
 ## **🛠️ SKILLS**
 
