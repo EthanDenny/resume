@@ -16,6 +16,12 @@
 
 ## **💻 EXPERIENCE**
 
+### **Software Developer**
+#### MUN Visual & Analytic Computing Lab, Sep 2023 - Present
+
+- Developed and implemented a file format for storing and reading lightfield simulator states, including config files and images.
+- Refactored critical code, making development easier going forward.
+
 ### **Supervisor**
 #### Commissionaires, Jul 2023 - Aug 2023
 
