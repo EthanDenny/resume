@@ -68,7 +68,7 @@
 
 ### **[Flip](https://github.com/EthanDenny/tiny-text-editor)**
 
-- Implemented a new programming language inspired by functional programming and Lisp
+- Built a new programming language inspired by functional programming and Lisp
 - Compiler written in Rust, outputs generated C code
 - Turing complete and able to solve online programing challenges
 
