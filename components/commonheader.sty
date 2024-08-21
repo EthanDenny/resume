@@ -1,0 +1,27 @@
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage[colorlinks=false,
+            allbordercolors={0 0 0},
+            pdfborderstyle={/S/U/W 1}]{hyperref}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage{bbding}
+\usepackage{import}
+\usepackage{emoji}
+
+\pagestyle{empty}
+\geometry{margin=0.5in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+\definecolor{highlight}{RGB}{0,0,0}
+
+\newcommand{\name}[1]{\begin{center}\section*{\LARGE \color{highlight} #1}\vspace{-0.4cm}\end{center}}
+\newcommand{\topinfo}[1]{\begin{center}#1\vspace{-0.3cm}\end{center}}
+\newcommand{\social}[3]{#1 \ \href{#2}{#3} \ }
+\newcommand{\resumesection}[1]{\vspace{-0.3cm}\section*{\color{highlight}#1}\vspace{-0.2cm}\hrule\vspace{0.4cm}}
+
+\renewcommand{\familydefault}{\sfdefault}
