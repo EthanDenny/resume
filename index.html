@@ -1,17 +1,30 @@
-<style>
-    * {
-      box-sizing: border-box;
-    }
-    body {
-      margin: 0;
-    }
-    html, body, iframe {
-      height: 100%;
-      width: 100%;
-    }
-    iframe {
-      border: none;
-    }
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Resume | Ethan Denny</title>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+
+      html, body, #container {
+        height: 100%;
+        width: 100%;
+      }
+
+      body {
+        margin: 0;
+      }
+
+      #container {
+        border: none;
+      }
     </style>
-    
-    <iframe src="./resume.pdf" />
+  </head>
+  <body>
+    <div id="container">
+      <iframe src="./resume.pdf" />
+    </div>
+  </body>
+</html>
