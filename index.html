@@ -8,7 +8,7 @@
         box-sizing: border-box;
       }
 
-      html, body, #container {
+      html, body, embed {
         height: 100%;
         width: 100%;
       }
@@ -17,14 +17,12 @@
         margin: 0;
       }
 
-      #container {
+      iframe {
         border: none;
       }
     </style>
   </head>
   <body>
-    <div id="container">
-      <iframe src="./resume.pdf" />
-    </div>
+    <embed src="./resume.pdf" type="application/pdf" />
   </body>
 </html>
